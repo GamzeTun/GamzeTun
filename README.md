@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GamzeTunç
 - 👀 I’m interested in frond end developer and game developer
-- 🌱 I’m currently learning javascript and Unity 
-- 💞️ I’m looking to collaborate on game development and web desing
+- 🌱 I’m currently learning javascript 
+- 💞️ I’m looking to collaborate on web desing
 - 📫 How to reach me ggamzettunc@gmail.com 
 
 <!---
