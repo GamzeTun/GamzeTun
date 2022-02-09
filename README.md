@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GamzeTunç
-- 👀 I’m interested in frond end developer and game developer
+- 👀 I’m interested in frond end developer
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on web desing
 - 📫 How to reach me ggamzettunc@gmail.com 
